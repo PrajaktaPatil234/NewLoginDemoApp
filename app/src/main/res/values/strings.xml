@@ -1,0 +1,61 @@
+<resources>
+
+    <string name="app_name">Login Demo App</string>
+    <string name="logInNow">LogIn</string>
+    <string name="logInTitle">Please login to continue our app</string>
+    <string name="forgetPassword">Forget Password?</string>
+    <string name="logIn">Log in</string>
+    <string name="dontHaveAnAccount">Don\'t have an account ?</string>
+    <string name="signUp">Sign Up</string>
+    <string name="orConnect">or connect</string>
+    <string name="logOut">Log Out</string>
+
+    <string name="signUpNow">Sign Up</string>
+    <string name="signUpNowTitle">Please fill the details and create account</string>
+    <string name="alreadyHaveAnAccount">Already have an account ?</string>
+
+    <string name="fullName">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="please_enter_fullName">Please enter full name</string>
+    <string name="please_enter_email">Please enter email</string>
+    <string name="please_enter_valid_email">Please enter valid email</string>
+    <string name="please_enter_password">Please enter password</string>
+    <string name="please_select_image">Please select image</string>
+
+
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="loading">Loading....</string>
+    <string name="logoutMSG">Are you sure you want to log out</string>
+    <string name="internetConnection">Internet connection not available</string>
+    <string name="permission">Please allow permission other wise not work this feature</string>
+    <string name="wrong">Some thing went to wrong please try again</string>
+
+    <string name="bad_request">Bad Request</string>
+    <string name="unauthorized">Unauthorized</string>
+    <string name="forbidden">Forbidden</string>
+    <string name="not_found">Not Found</string>
+    <string name="method_not_allowed">Method Not Allowed</string>
+    <string name="conflict">Conflict</string>
+    <string name="unprocessable_entity">Unprocessable Entity</string>
+    <string name="internal_server_error">Internal Server Error</string>
+    <string name="bad_gateway">Bad Gateway</string>
+    <string name="service_unavailable">Service Unavailable</string>
+    <string name="gateway_timeout">Gateway Timeout</string>
+    <string name="unknown">Unknown</string>
+
+    <string name="allowImageTitle">Choose Image</string>
+    <string name="select_option">Select option</string>
+    <string name="take_from_camera">Take from Camera</string>
+    <string name="select_from_gallery">Select from Gallery</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="setting">Setting</string>
+    <string name="setting_des">Please allow camara permission in app setting</string>
+    <string name="please_allow_limited_image_access_for_this_app">Please allow limited image access for this app</string>
+    <string name="userList">User List</string>
+
+</resources>
